@@ -1,0 +1,14 @@
+Initial mid price: 100.0
+Initial spread: 1.0
+Initial spread: 1.000616000000008
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Before cancel 99.9977915
+best_price (np.float64(99.495275), np.float64(100.500308))
